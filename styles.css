@@ -1,0 +1,14 @@
+body{
+  background: lightgray;
+  font-family: comic-sans;
+}
+
+#container{
+  width: 1100px;
+  boder: 5px solid black;
+}
+
+header{
+  background: white;
+  text-alingn: center;
+}
