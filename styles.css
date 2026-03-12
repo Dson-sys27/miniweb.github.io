@@ -12,7 +12,8 @@ body{
   #cajilla{
     background-color: blue;
     overflow-y: scroll;
-    
+    width: 100px;
+    height: 70px;
   }
 
 header{
